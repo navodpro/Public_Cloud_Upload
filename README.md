@@ -4,15 +4,15 @@
 ### Usage: Send any file, and the bot will upload it to MixDrop.co, File.io
 
 ### Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhijith-cloud/Telegram-MixDrop-Bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/navodpro/Public_Cloud_Upload/)
 
 # Installation
 #### Clone 
 
 ```sh
-git clone https://github.com/Abhijith-cloud/TelegramFiletoCloud.git
+git clone https://github.com/navodpro/Public_Cloud_Upload.git
 
-cd TelegramFiletoCloud
+cd Public_Cloud_Upload
 
 ```
 
@@ -38,5 +38,5 @@ class Config:
 python3 -m bot
 ```
 ## :clap:  Supporters
-[![Stargazers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://reporoster.com/stars/Abhijith-cloud/TelegramFiletoCloud)](https://github.com/Abhijith-cloud/TelegramFiletoCloud/stargazers)
-[![Forkers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://reporoster.com/forks/Abhijith-cloud/TelegramFiletoCloud)](https://github.com/Abhijith-cloud/TelegramFiletoCloud/network/members)
+[![Stargazers repo roster for @navodpro/Public_Cloud_Upload](https://reporoster.com/stars/navodpro/Public_Cloud_Upload)](https://github.com/navodpro/Public_Cloud_Upload/stargazers)
+[![Forkers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://reporoster.com/forks/navodpro/Public_Cloud_Upload)](https://github.com/navodpro/Public_Cloud_Upload/network/members)
